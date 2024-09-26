@@ -1,0 +1,18 @@
+[MQTT]
+broker_url = "localhost"
+broker_port = 1883
+broker_user = "homeassistant"
+broker_password = "pass"
+mqtt_client_id = "watchdog"
+topic_notifications = "custom/smartwatchdog/notifications_sw"
+[video]
+frame_rate = 2
+video = "rtsp://192.168.00.90:554/11"
+look_for = "person, bicycle, car, motorbike, train, truck, bird, cat, dog, backpack"
+delay_after_recognition = 14 # in frames
+alerts_timeout = 300 
+recognition_score = 0.5
+recognition_times = 4
+[telegram]
+TOKEN = 'token'
+chat_id = "-4000000000"

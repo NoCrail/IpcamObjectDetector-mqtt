@@ -1,0 +1,26 @@
+2024-06-29 13:20:34,520 INFO No client found, creating...
+2024-06-29 13:20:34,520 DEBUG Mqtt client_id:watchdog-608
+2024-06-29 13:20:34,788 DEBUG Subscribing to topic custom/smartwatchdog/notifications_sw
+2024-06-29 13:20:34,788 DEBUG Setting enabled to True
+2024-06-29 13:20:36,073 DEBUG look_for: ['person', 'bicycle', 'car', 'motorbike', 'train', 'truck', 'bird', 'cat', 'dog', 'backpack']
+2024-06-29 13:20:36,074 INFO Connected to MQTT Broker!
+2024-06-29 13:20:36,074 DEBUG Setting available to True
+2024-06-29 13:20:36,075 DEBUG Received `ON` from `custom/smartwatchdog/notifications_sw` topic
+2024-06-29 13:20:36,075 INFO Notifications enabled after mqtt message
+2024-06-29 13:20:36,075 DEBUG Received `ON` from `custom/smartwatchdog/notifications_sw` topic
+2024-06-29 13:20:36,075 INFO Notifications enabled after mqtt message
+2024-06-29 13:20:36,827 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:37,442 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:38,059 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:38,666 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:39,276 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:39,888 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:40,509 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:41,122 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:41,731 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:42,343 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:42,952 DEBUG Got empty list, resetting recognition times
+2024-06-29 13:20:42,966 DEBUG Setting enabled to False
+2024-06-29 13:20:42,967 DEBUG Setting available to False
+2024-06-29 13:20:42,967 INFO Stopping mqtt client...
+2024-06-29 13:20:42,967 WARNING Disconnected with result code: Normal disconnection

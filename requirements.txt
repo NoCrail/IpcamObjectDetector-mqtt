@@ -1,0 +1,6 @@
+paho-mqtt
+opencv-python
+numpy
+art
+configparser
+requests
